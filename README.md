@@ -19,4 +19,6 @@ Data Scientist Jobs - Kaggle
 https://www.kaggle.com/andrewmvd/data-scientist-jobs  
 ### Code Files
 This team project has been fully integrated into a single file where you can find all the codes where we utilized to derive the final outputs.  
-DataMining_FinalProject.ipynb ------ Jupyter Notebook for integrated codes
+DataMining_FinalProject.ipynb ------ Jupyter Notebook for integrated codes  
+  
+Note: The DataMining_FinalProject file is a large file which contains all of codes. To view the structure and not lose in the codes, you may download it and open it in your Google Colab since we deployed our codes there and the Colab provides content feature where you can view and jump to specific section directly. 
